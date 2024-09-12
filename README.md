@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ramses Valenzuela</h1>
 <h3 align="center">I am a software developer with a passion for technology, my areas of work can be in both back and front end, besides having a passion for continuous learning.</h3>
 
-- 🔭 I’m currently working on **Bienes_Raices**
+- 🔭 I’m currently working on [Bienes_Raices](https://github.com/RamsesValenzuela/BienesRaices)
 
 - 🌱 I’m currently learning **Data Scientist on Coursera and developing its own projects**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/jesus-ramses-valenzuela-almada-8a31a7149" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jesus-ramses-valenzuela-almada-8a31a7149" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jesus-ramses-valenzuela-almada-8a31a7149/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jesus-ramses-valenzuela-almada-8a31a7149/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
